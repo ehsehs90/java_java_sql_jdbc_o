@@ -1,0 +1,6 @@
+R/33000
+private/2000
+Hadoop/43000
+Spring Framework/33000
+java programming/29000
+SQL/22000
